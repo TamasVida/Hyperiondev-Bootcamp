@@ -1,0 +1,6 @@
+quote = ( "The!quick!brown!fox!jumps!over!the!lazy!dog.")
+print(quote)
+print(quote.replace("!", " "))
+quote1 = quote.replace("!", " ")
+print(quote1.upper())
+print(quote1[::-1])
